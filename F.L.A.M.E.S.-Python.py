@@ -48,6 +48,6 @@ def flames(name1, name2):
     print('\nFLAMES result: ' + flames_meaning(flames))
 
 print('*** WELCOME TO THE FLAMES GAME ***\n')
-name1 = input('Enter first name >>> ').upper()
-name2 = input('Enter second name >>> ').upper()
+name1 = input('Enter name 1 (first name only) >>> ').upper()
+name2 = input('Enter name 2 (first name only) >>> ').upper()
 flames(name1, name2)
