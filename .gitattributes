@@ -1,2 +1,2 @@
 * linguist-vendored
-*.py *.java linguist-vendored=false
+*.py , *.java linguist-vendored=false
